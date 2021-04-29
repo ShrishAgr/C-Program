@@ -7,7 +7,7 @@ int main()
     printf("Enter String");
     scanf("%c", &s);
     t=strlen(s);
-    for(i=0;i<t;i++);
+    for(i=0;i<t;i++)
     {
         char x=s[i];
         if(x==' ')
